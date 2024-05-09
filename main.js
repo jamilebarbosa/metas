@@ -17,10 +17,10 @@ for (let i = 0; i < botoes.length; i++) {
 
 //cria as constantes e a lista "tempo" dos objetivos ou metas
 const contadores = document.querySelectorAll(".contador");
-const tempoObjetivo1 = new Date("2024-05-02T00:00:00");
-const tempoObjetivo2 = new Date("2024-12-20T00:00:00");
-const tempoObjetivo3 = new Date("2024-12-30T00:00:00");
-const tempoObjetivo4 = new Date("2024-10-25T00:00:00");
+const tempoObjetivo1 = new Date("2024-12-20T00:00:00");
+const tempoObjetivo2 = new Date("2024-12-10T00:00:00");
+const tempoObjetivo3 = new Date("2024-06-21T00:00:00");
+const tempoObjetivo4 = new Date("2024-11-25T00:00:00");
 //constante da lista dos tempos de objetivo
 const tempos = [tempoObjetivo1, tempoObjetivo2, tempoObjetivo3, tempoObjetivo4];
 
